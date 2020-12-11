@@ -1,0 +1,10 @@
+class Chef:
+
+    def low_carb(self):
+        print("Makes chicken and greenveggies")
+
+    def med_carb(self):
+        print("The chef makes steak and potato")
+
+    def hi_carb(self):
+        print("Makes chicken and rice and beans")
